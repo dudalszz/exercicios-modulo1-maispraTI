@@ -36,7 +36,7 @@ node 01-parOuImpar.js
 ├── 01-parOuImpar.js
 ├── 02-faixaIdade.js
 ├── ...
-├── 15-Fibonacci.js
+├── 15-fibonacci.js
 ├── package.json
 └── README.md
 ```
